@@ -5,38 +5,11 @@
 #include <RTClib.h>
 #include <ESP32Servo.h>
 #include <EEPROM.h>
-Filter your search...
-Type:
-
-All
-
-
-
-
-
-
-
-
 #include "HX711.h"
 
 // WiFi credentials
 const char* ssid = "PillDispenser_AP";
 const char* password = "12345678";
-Filter your search...
-Type:
-
-All
-Topic:
-
-All
-
-
-
-
-
-
-
-
 
 // Pin definitions
 const int servoPin = 4;
